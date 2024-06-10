@@ -1,4 +1,3 @@
-dotenv
 python-dotenv
 wheel
 setuptools
