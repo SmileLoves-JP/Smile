@@ -1,3 +1,4 @@
 python-dotenv
 wheel
 setuptools
+discord
